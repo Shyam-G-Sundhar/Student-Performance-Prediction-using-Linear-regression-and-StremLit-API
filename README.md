@@ -1,2 +1,3 @@
 # Student-Performance-Prediction-using-Linear-regression-and-StremLit-API
-[app.pdf](https://github.com/user-attachments/files/18408301/app.pdf)
+![image](https://github.com/user-attachments/assets/e83cd967-6b53-4e79-ba06-8f8c4be06a41)
+
